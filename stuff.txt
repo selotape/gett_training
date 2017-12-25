@@ -1,0 +1,4 @@
+ipython notebook - 
+http://ai-course0.gett.com:8888/login?next=%2Ftree%3F
+password: gettai2018 
+
